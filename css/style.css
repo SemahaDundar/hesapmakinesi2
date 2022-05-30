@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+html, body{
+    height: 100px;
+}
+
+body{
+    margin: 0;
+}
+
+ /*reset kodları*/
